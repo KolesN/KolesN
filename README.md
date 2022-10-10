@@ -27,3 +27,15 @@
 <a href="mailto:KolesNikita7@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a  href="https://t.me/Koles_Nikita"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KolesN&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="KolesN" /></td>
+<p>
+   
+
+ [![KolesN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KolesN&theme=xcode)](https://git.io/KolesN)
+   
+   
+
+[![GitHub followers](https://img.shields.io/github/followers/KolesN.svg?style=social&label=Follow)](https://github.com/KolesN?tab=followers)
