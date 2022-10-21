@@ -34,6 +34,6 @@
 <p>
    
 
-[![KolesN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KolesN&theme=xcode)](https://github.com/KolesN?tab=repositories)
+<!-- [![KolesN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KolesN&theme=xcode)](https://github.com/KolesN?tab=repositories) -->
      
 [![GitHub followers](https://img.shields.io/github/followers/KolesN.svg?style=social&label=Follow)](https://github.com/KolesN?tab=followers)
