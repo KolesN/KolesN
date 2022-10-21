@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nikita
-<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> -->
+<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>  https://git.io/KolesN  -->
   <h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Web+Developer" alt="Typing SVG" /></a></h2>
 
 
@@ -34,6 +34,6 @@
 <p>
    
 
-[![KolesN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KolesN&theme=xcode)](https://git.io/KolesN)
+[![KolesN's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KolesN&theme=xcode)](https://github.com/KolesN)
      
 [![GitHub followers](https://img.shields.io/github/followers/KolesN.svg?style=social&label=Follow)](https://github.com/KolesN?tab=followers)
